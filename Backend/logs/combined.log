@@ -1,0 +1,18 @@
+2025-06-22 23:29:43 [INFO]: Server running on port 3000
+2025-06-22 23:29:43 [ERROR]: MongoDB connection error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-06-22 23:30:20 [INFO]: Server running on port 3000
+2025-06-22 23:30:20 [ERROR]: MongoDB connection error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-06-22 23:51:52 [INFO]: Server running on port 3000
+2025-06-22 23:51:52 [ERROR]: MongoDB connection error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-06-22 23:52:25 [INFO]: Server running on port 3000
+2025-06-22 23:52:25 [ERROR]: MongoDB connection error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-06-22 23:53:16 [INFO]: Server running on port 3000
+2025-06-22 23:53:16 [ERROR]: MongoDB connection error: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-06-22 23:58:25 [INFO]: Server running on port 4000
+2025-06-22 23:58:26 [ERROR]: MongoDB connection error: bad auth : authentication failed
+2025-06-23 00:00:44 [INFO]: Server running on port 4000
+2025-06-23 00:00:46 [ERROR]: MongoDB connection error: bad auth : authentication failed
+2025-06-23 00:05:08 [INFO]: Server running on port 4000
+2025-06-23 00:05:09 [ERROR]: MongoDB connection error: bad auth : authentication failed
+2025-06-23 01:57:29 [INFO]: Server running on port 4000
+2025-06-23 01:57:30 [ERROR]: MongoDB connection error: bad auth : authentication failed
