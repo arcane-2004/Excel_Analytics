@@ -14,7 +14,7 @@ connectToDb();
 app.use(cookieParser());
 // Fix CORS to allow credentials and set allowed origin
 app.use(cors({
-  origin: 'https://excel-analytics-backend-qmt1.onrender.com',
+  origin: 'https://excel-analytics-frontend.onrender.com',
   credentials: true
 }));
 
