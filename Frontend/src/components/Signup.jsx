@@ -3,7 +3,7 @@ import axios from 'axios';
 import './Signup.css';
 import { useNavigate } from 'react-router-dom';
 
-const url = "https://excelanalytics-backend.onrender.com";
+const url = "https://excel-analytics-backend-qmt1.onrender.com";
 
 function Signup() {
   const navigate = useNavigate();
