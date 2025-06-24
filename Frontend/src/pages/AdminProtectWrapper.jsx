@@ -5,7 +5,7 @@ import { UserDataContext } from '../context/userContext';
 
 
 const AdminProtectWrapper = ({ children }) => {
-    const url = `https://excelanalytics-backend.onrender.com`;
+    const url = `https://excel-analytics-backend-qmt1.onrender.com`;
     const token = localStorage.getItem('token');
     const navigate = useNavigate();
     const {user,setUser}= useContext(UserDataContext);
