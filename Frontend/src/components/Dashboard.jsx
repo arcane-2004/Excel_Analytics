@@ -15,7 +15,7 @@ function Dashboard() {
   const [recentCharts, setRecentCharts] = useState([]);
   const [recentUploads, setRecentUploads] = useState([]);
 
-    const url = `https://excelanalytics-backend.onrender.com`;
+    const url = `https://excel-analytics-backend-qmt1.onrender.com`;
 
   useEffect(() => {
     const fetchStats = async () => {
